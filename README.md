@@ -1,4 +1,6 @@
-![](https://www.canva.com/design/DAFOBKb3aTU/6MT3rKAQb6m60JZgFe_tZQ/watch?utm_content=DAFOBKb3aTU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+![](https://user-images.githubusercontent.com/104408054/193694411-997b28dd-09fd-4233-b48c-32fde18c6eb2.jpg)
+
 # console.log("Hello World!! 👋")
 Mi nombre es Franco, soy Full Stack Developer. Hace tiempo me intereso y apasiono el mundo IT del cual ya puedo formar parte capacitandome, y me fascina la idea de poder vivir de lo que me gusta.
 
