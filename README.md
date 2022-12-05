@@ -4,7 +4,7 @@
 # console.log("Hello World!! 👋")
 Mi nombre es Franco, soy Full Stack Developer. Hace tiempo me intereso y apasiono el mundo IT del cual ya puedo formar parte capacitandome, y me fascina la idea de poder vivir de lo que me gusta.
 
-## Mis Conocimientos📚
+## <h1>Mis Conocimientos</h1>📚
 Mis primeros pasos en el desarrollo fueron por JavaScript. luego entre a la academia Soy Henry, en la cual desarrolle increibles habilidades.
 
 ↓ Sumamos a los conocimientos ↓
@@ -19,4 +19,23 @@ Mis primeros pasos en el desarrollo fueron por JavaScript. luego entre a la acad
 
 ✔️ Express.
 
+✔️ PostgreSQL.
+
 ✔️ Bootstrap.
+
+
+## <h2>Conocimientos adquiridos recientemente</h2>
+
+✔️ MongoDB.
+
+✔️ Mongoose.
+
+✔️ JWT.
+
+✔️ LocalStorage.
+
+✔️ FireBase.
+
+✔️ Tailwind.
+
+✔️ TypeScript.
