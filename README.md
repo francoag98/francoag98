@@ -2,14 +2,12 @@
 ![](https://user-images.githubusercontent.com/104408054/193694411-997b28dd-09fd-4233-b48c-32fde18c6eb2.jpg)
 
 # console.log("Hello World!! 👋")
-Mi nombre es Franco, soy Full Stack Developer. Hace tiempo me intereso y apasiono el mundo IT del cual ya puedo formar parte capacitandome, y me fascina la idea de poder vivir de lo que me gusta.
+Mi nombre es Franco Aglieri, soy Full Stack Developer. Desde muy chico me apasiono la computacion, los sistemas y las aplicaciones. Me enorgullese decir que ya puedo formar parte de este mundo IT capacitandome, he aprendido a manejar los stacks PERN y MERN, tanto en javascript como con typescript, microservicios, docker.
 
 ## Mis Conocimientos📚
-Mis primeros pasos en el desarrollo fueron por JavaScript. luego entre a la academia Soy Henry, en la cual desarrolle increibles habilidades.
+Conmigo en el equipo, no solo habrás encontrado un desarrollador con habilidades técnicas y con la capacidad de integrarse en cualquier grupo de trabajo. Me encanta ayudar para que cada integrante del equipo de su maximo de su potencial, tambien aprender de ellos y siempre estoy en la búsqueda de nuevos desafíos que fortalezcan y amplíen mis conocimientos y habilidades. Gracias a mi capacidad de aprendizaje rapido me favorece en aprender y utilizar herramientas nuevas.
 
-↓ Sumamos a los conocimientos ↓
-
-✔️ JavaScript avanzado.
+↓ Tecnologias que utilizo ↓
 
 ✔️ ReactJS.
 
@@ -21,24 +19,11 @@ Mis primeros pasos en el desarrollo fueron por JavaScript. luego entre a la acad
 
 ✔️ PostgreSQL.
 
-✔️ Bootstrap.
-
-
-## Conocimientos adquiridos recientemente 📚
-
 ✔️ MongoDB.
 
-✔️ Mongoose.
-
-✔️ JWT.
-
-✔️ LocalStorage.
-
-✔️ FireBase.
-
-✔️ Tailwind.
-
 ✔️ TypeScript.
+
+✔️ Next.js.
 
 <p>Puedes contactarme mediante las siguientes redes
 <br>	
